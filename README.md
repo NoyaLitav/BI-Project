@@ -1,4 +1,4 @@
 # BI-Project
-Sahar Gelber
-Noya Litav
+Sahar Gelber,
+Noya Litav,
 Nadav Zohar
